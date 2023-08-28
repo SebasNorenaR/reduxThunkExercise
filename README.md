@@ -1,1 +1,1 @@
-# Simple React App using react-thunk
+# Simple React App using redux-thunk
